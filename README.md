@@ -21,3 +21,6 @@ Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It co
 
 The four plots that you will need to construct are shown below. 
 
+https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot1.png
+
+
