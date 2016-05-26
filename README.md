@@ -25,12 +25,12 @@ The four plots that you will need to construct are shown below.
 https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot1.png
 
 ### Plot 2
-https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot1.png
+https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot2.png
 
 ### Plot 3
-https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot1.png
+https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot3.png
 
 ### Plot 4
-https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot1.png
+https://github.com/alaharik/Coursera-ExploratoryDataAnalysis-Week1Assignment/blob/master/plot4.png
 
 
